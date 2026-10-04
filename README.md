@@ -11,4 +11,4 @@ A dual-layer tool that analyzes code for bugs, runs automated tests, and suggest
 
 ## 💡 System Architecture & Core Capabilities
 
-The platform operates across two distinct AI paradigms to ensure zero-hallucination security auditing and reliable code patch remediation:
+The platform operates across two distinct AI paradigms to ensure zero-hallucination security auditing and reliable code patch remediation
